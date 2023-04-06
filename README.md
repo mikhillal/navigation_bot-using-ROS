@@ -13,6 +13,6 @@ To run the navigation bot, you will need to have the following dependencies inst
 
 *Hardware Requirement*
 
-Arduino UNO / Mega,
-Motor Driver (L298N),
-Geared Motor With Encoder
+1. Arduino UNO / Mega
+2. Motor Driver (L298N),
+3. Geared Motor With Encoder
